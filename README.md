@@ -6,7 +6,7 @@ This should be a fun project as you'll be building forms and setting up validati
 
 To get started with this project, you'll need to do the following:
 * Fork the repo and clone it to your computer
-* Install bower packages
+* Go to index.html and change the script links for Angular and Anguar-route to be CDNs.
 
 ## Creating Forms
 
